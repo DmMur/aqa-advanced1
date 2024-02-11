@@ -11,4 +11,3 @@ let number5 = null;
 let number6 = 5* number5;
 console.log (number4, number5, number6);
 
-
