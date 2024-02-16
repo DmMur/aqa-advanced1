@@ -8,4 +8,3 @@ let newConcat = wellcomeOne.concat (' ', nameOne);
 console.log (wellcome);
 console.log (wellcomeOne + ' ' + nameOne, nameTwo);
 console.log (newConcat);
-
