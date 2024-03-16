@@ -1,9 +1,10 @@
 function areaRectangle (width,height) {
-    const areaRectangle = width*height
-    return areaRectangle  
+    const result = width*height
+      
+    return console.log ('Площа прямокутника '+ result);
+    
 }
-const count = areaRectangle(5,10)
-console.log ('Площа прямокутника '+ count);
+areaRectangle(5,10)
 
 
 

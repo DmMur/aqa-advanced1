@@ -1,4 +1,4 @@
-let averageGrade = 75;
+let averageGrade = 85;
 switch (true)
 {
     case averageGrade < 60:

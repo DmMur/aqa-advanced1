@@ -1,5 +1,4 @@
-
-
+/*
 import readline from "readline";
 function agePerson(){
 
@@ -20,7 +19,7 @@ function agePerson(){
 }
 agePerson();
 
-
+*/
 
 // for arguments 15 and 25
 function agePersonNew (a) {

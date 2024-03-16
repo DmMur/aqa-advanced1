@@ -5,6 +5,7 @@ for
 console.log (a, '*', i,'=', a*i)
 };
 
+console.log ('The varian with while');
 
 const n=5 // while
 let it = 1;
