@@ -6,5 +6,3 @@ const averageGrade = 85;
  else if (averageGrade >=80 && averageGrade <=90  ){console.log ('Your rating is Very Good')}
  else if (averageGrade >=90 && averageGrade <=100  ){console.log ('Your rating is Excellent')}
  else {console.log ('System error')}
-
-
