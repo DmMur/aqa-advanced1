@@ -28,6 +28,7 @@ describe('test auto site', () => {
     cy.wait(500);
     cy.get('.close').click();
   });
+  //Adding car
   it('Login, Adding car', () => {
     cy.get('button.header_signin').click();
     cy.get("input[name='email']").type(email);
